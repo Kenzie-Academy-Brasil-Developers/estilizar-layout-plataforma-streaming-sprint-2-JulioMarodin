@@ -268,7 +268,7 @@ button {
 @media screen and (min-width: 769px) {
   header {
     font-size: xx-large;
-    padding-left: 90px;
+    padding-left: 270px;
   }
 
   header.topo {
@@ -294,12 +294,14 @@ button {
   }
 
   ul {
+    width: 858px;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
   }
 
   li {
-    padding: 20px;
+    /* padding-left: 20px; */
+    width: 186px;
   }
 
   button {
