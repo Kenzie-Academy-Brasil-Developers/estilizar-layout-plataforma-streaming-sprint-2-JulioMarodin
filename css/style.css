@@ -280,8 +280,16 @@ button {
   }
 
   img {
-    max-width: 100px;
-    /* border: 1px solid #c0c0c0; */
+    max-width: 186px;
+  }
+
+  .add-perfil {
+    width: 186px;
+    margin-top: 25px;
+  }
+
+  .add-perfil-txt {
+    margin-top: 49px;
   }
 
   section {
@@ -296,11 +304,9 @@ button {
   ul {
     width: 858px;
     flex-direction: row;
-    justify-content: center;
   }
 
   li {
-    /* padding-left: 20px; */
     width: 186px;
   }
 
